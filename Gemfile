@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.0.0.beta1'
+gem 'rails', github: 'neerajdotname/rails', branch: '9740'

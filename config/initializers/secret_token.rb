@@ -6,3 +6,4 @@
 # no regular words or you'll be exposed to dictionary attacks.
 RailsCookieIssue::Application.config.secret_token    = '111111111111111111111111111111'
 RailsCookieIssue::Application.config.secret_key_base = '222222222222222222222222222222'
+RailsCookieIssue::Application.config.upgrade_signature_to_encryption_cookie = true
